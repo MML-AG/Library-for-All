@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mybtn{
+    width: auto;
+    margin: 20px auto;
+    display: block;
+}
+h4{
+    display: inline;
+    margin: 0 20px;
+}
+p{
+    display: inline-block;
+}
+.readStatus{
+    padding: 5px 20px;
+    color: white;
+    border-radius: 40px;
+}
